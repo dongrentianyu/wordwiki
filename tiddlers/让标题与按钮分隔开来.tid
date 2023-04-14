@@ -1,0 +1,17 @@
+created: 20230414092150121
+creator: 马不前
+modified: 20230414092207265
+modifier: 马不前
+tags: $:/tags/Stylesheet
+title: 让标题与按钮分隔开来
+type: text/vnd.tiddlywiki
+
+.tc-titlebar h2 {
+    font-size: 1em;
+    display: table-row-group;
+}
+.tc-tiddler-frame .tc-tiddler-controls {
+	display: table-header-group;
+    float: right;
+    padding: 0px;
+}
