@@ -1,8 +1,11 @@
-created:20230411223456473
-caption:genome    ['dʒi:nəum]
-creator:马不前
-IsOtherText:split
-tags:? GRE
-title:genome
+IsOtherText: A Dictionary of Confusable Phrases
+caption: genome    ['dʒi:nəum]
+created: 20230411223456473
+creator: 马不前
+modified: 20230414083124478
+modifier: 马不前
+tags: ? GRE
+title: genome
+type: text/vnd.tiddlywiki
 
 "n.基因组，染色体组 【记】 联系:gene(基因) n. [生]基因组, 染色体组 【记】gene(n 基因) 【记】gene 基因+ om，om结尾表示体或组 【相关】chromosome 染色体 genome (n.)  ""sum total of genes in a set,"" 1930, modeled on German genom, coined 1920 by German botanist Hans Winkler, from gen ""gene"" + (chromos)om ""chromosome."""

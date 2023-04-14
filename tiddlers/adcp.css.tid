@@ -1,0 +1,80 @@
+created: 20230414084002552
+creator: 马不前
+modified: 20230414084021160
+modifier: 马不前
+tags: $:/tags/Stylesheet
+title: adcp.css
+type: text/vnd.tiddlywiki
+
+entry {
+	font-family:Calibri,Arial,sans-serif;
+  	display: block;
+  	border-top:0.06rem solid #e62a3c;
+  	border-bottom:0.06rem solid #e62a3c;
+  	border-left:0.3rem solid #e62a3c;
+  	border-right:0.3rem solid #e62a3c;
+  	border-radius:1.3rem;
+  	box-shadow:0.125rem 0.125rem 0.125rem #cdcdcd;
+  	line-height:1.4rem;
+  	padding:0.3rem 1rem 0.1rem 1rem;
+}
+
+xh2, xh5 {
+	font-size:1.35rem;
+	font-weight: 400;
+	background:#e62a3c;
+	color:white;
+	display:inline-block;
+	padding:0.25rem 0.5rem 0.25rem 0.7rem;
+	margin:1.1rem 0.4rem 0.5rem -1.4rem;
+	border-radius:0 0.3rem 0.3rem 0;
+	box-shadow:0.125rem 0.125rem 0.125rem #d7d7d7;
+	text-shadow:0.0625rem 0.0625rem 0.0625rem #4d4d4d;
+}
+
+xh5 i {
+	font-size:1rem;
+	font-style:normal;
+	color:yellow;
+}
+
+p i:first-child {
+	font-weight:600;
+}
+
+p.xr {
+	margin: 1.5% 0;
+	font-size: 95%;
+}
+
+p.xr::before {
+	content: "➜ ";
+}
+
+.note {
+	font-weight: 600;
+	font-size:0.9em;
+	text-transform:uppercase;
+	color:#e62a3c;
+	display:table-cell;
+}
+
+.note::before {
+	font-weight: 400;
+	content:"◄";
+	padding-right:3px;
+	color:#e62a3c;
+	vertical-align:top;
+}
+
+.note::after {
+	font-weight: 400;
+	content: "►";
+	padding-left:3px;
+	color:#e62a3c;
+	vertical-align:top;
+}
+
+p {
+	margin:0 0 0.5em 0;
+}
