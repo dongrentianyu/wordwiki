@@ -1,8 +1,11 @@
-12:12
-created:20230414152512779
-creator:马不前
-IsOtherText:split
-tags:
-title:weather
+IsOtherText: split
+created: 20230414152512779
+creator: 马不前
+haslist: 12
+modified: 20230414105507579
+modifier: 马不前
+tags: 
+title: weather
+type: text/vnd.tiddlywiki
 
 <h2>weather</h2><p class="xr">[[below the weather]]<br/>[[under the weather</a></p>
